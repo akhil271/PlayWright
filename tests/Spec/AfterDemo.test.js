@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const LoginPage = require('../Page/Login1Page');
+const LoginPage = require('../Page/AfterDemo');
 
 // Test data
 const VALID_USERNAME = 'Admin';
